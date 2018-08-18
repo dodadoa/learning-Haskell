@@ -1,0 +1,16 @@
+Configuring terminal-size-0.3.2.1...
+Preprocessing library for terminal-size-0.3.2.1..
+Posix.hsc:24:9: warning: 'hsc_alignment' macro redefined [-Wmacro-redefined]
+#define hsc_alignment(t ) hsc_printf ( "%lu", (unsigned long)offsetof(struct {char x__; t (y__); }, y__));
+        ^
+/Users/wasawatsomno/.stack/programs/x86_64-osx/ghc-8.4.3/lib/ghc-8.4.3/template-hsc.h:91:9: note: previous definition is here
+#define hsc_alignment(x...)                                           \
+        ^
+1 warning generated.
+Building library for terminal-size-0.3.2.1..
+[1 of 3] Compiling System.Console.Terminal.Common ( src/System/Console/Terminal/Common.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/System/Console/Terminal/Common.o )
+[2 of 3] Compiling System.Console.Terminal.Posix ( .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/System/Console/Terminal/Posix.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/System/Console/Terminal/Posix.o )
+[3 of 3] Compiling System.Console.Terminal.Size ( src/System/Console/Terminal/Size.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/System/Console/Terminal/Size.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in /Users/wasawatsomno/.stack/snapshots/x86_64-osx/lts-12.2/8.4.3/lib/x86_64-osx-ghc-8.4.3/terminal-size-0.3.2.1-KN6K6Ef1GMWIEqS2qb6D5y
+Registering library for terminal-size-0.3.2.1..

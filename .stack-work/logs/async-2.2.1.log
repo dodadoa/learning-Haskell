@@ -1,0 +1,7 @@
+Configuring async-2.2.1...
+Preprocessing library for async-2.2.1..
+Building library for async-2.2.1..
+[1 of 1] Compiling Control.Concurrent.Async ( Control/Concurrent/Async.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Control/Concurrent/Async.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in /Users/wasawatsomno/.stack/snapshots/x86_64-osx/lts-12.2/8.4.3/lib/x86_64-osx-ghc-8.4.3/async-2.2.1-1bsiEsDyYvD1Jx6uPPJyV0
+Registering library for async-2.2.1..

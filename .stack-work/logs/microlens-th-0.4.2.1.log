@@ -1,0 +1,7 @@
+Configuring microlens-th-0.4.2.1...
+Preprocessing library for microlens-th-0.4.2.1..
+Building library for microlens-th-0.4.2.1..
+[1 of 1] Compiling Lens.Micro.TH    ( src/Lens/Micro/TH.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Lens/Micro/TH.o )
+ignoring (possibly broken) abi-depends field for packages
+Installing library in /Users/wasawatsomno/.stack/snapshots/x86_64-osx/lts-12.2/8.4.3/lib/x86_64-osx-ghc-8.4.3/microlens-th-0.4.2.1-5KRvpe5AISLIBHd4k0r8zt
+Registering library for microlens-th-0.4.2.1..
